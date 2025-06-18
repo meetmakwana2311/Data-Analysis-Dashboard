@@ -37,6 +37,9 @@ Synthetic datasets are generated programmatically and include:
 * Detailed customer profiles (age, income, satisfaction, loyalty)
 * Product-level performance metrics
 * Regional revenue distribution
+![newplot_(1) 1](https://github.com/user-attachments/assets/0ca66ebb-e6bb-4ab7-819b-28567fd4aa4b)
+
+![newplot (2)](https://github.com/user-attachments/assets/7b9554a2-1697-456b-b48d-7fe13ccce371)
 
 ## How to Run
 
@@ -72,7 +75,3 @@ This dashboard can be easily extended by:
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-Let me know if you want this in Markdown format (`.md`) or integrated into your repository directly.
